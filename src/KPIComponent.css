@@ -1,0 +1,21 @@
+/* KPIComponent.css */
+
+.kpi-component {
+    padding: 1em;
+    margin: 1em 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+  }
+  
+  .kpi-component h3 {
+    margin: 0 0 0.5em 0;
+    font-size: 1.2em;
+  }
+  
+  .kpi-component p {
+    margin: 0;
+    font-size: 1em;
+    color: #333;
+  }
+  

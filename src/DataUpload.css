@@ -1,0 +1,19 @@
+/* DataUpload.css */
+
+.data-upload {
+  padding: 2em;
+  background-color: #f1f1f1;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.data-upload h2 {
+  margin-bottom: 1em;
+  font-size: 1.5em;
+}
+
+.data-upload input[type="file"] {
+  padding: 0.5em;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}

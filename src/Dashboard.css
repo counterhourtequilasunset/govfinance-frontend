@@ -1,0 +1,28 @@
+/* Dashboard.css */
+
+.dashboard {
+  padding: 2em;
+}
+
+.dashboard-content {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.kpi-card {
+  background-color: #f5f5f5;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1em;
+  margin: 1em;
+  width: calc(33.333% - 2em);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.kpi-card h3 {
+  margin-top: 0;
+}
+
+.kpi-card p {
+  margin: 0.5em 0 0;
+}
